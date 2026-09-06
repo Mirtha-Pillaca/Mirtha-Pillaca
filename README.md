@@ -4,7 +4,7 @@
 
 PhD-trained scientist with several years of experience in scientific research, quantitative data analysis, data quality, and scientific documentation.
 
-I am currently transitioning into Data Analytics and Data Science, with a focus on **Python, SQL, data visualization, and reproducible data workflows**.
+My work combines scientific research, quantitative data analysis, and data science, with a focus on **Python**, **SQL**, **data visualization**, and reproducible data workflows.
 
 ## 🛠️ Data & Technical Skills
 
